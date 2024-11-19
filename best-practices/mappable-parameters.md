@@ -78,7 +78,7 @@ When defining the input parameters, try to use the same order as in the integrat
 
 ### Helps under parameters
 
-Using a help directive, you may specify a hint of what is expected for the parameter when it is not that obvious from the label or the expected value is more complicated. The text should start with a capital letter and end with a period. Supports Markdown, such as  `_italic_`, `**bold**`, `` `monospace` ``, `\n` , or URL `[example](http://example.com)`.
+Using a help directive, you may specify a hint of what is expected for the parameter when it is not that obvious from the label or the expected value is more complicated. The text should start with a capital letter and end with a period. Supports Markdown, such as `_italic_`, `**bold**`, `` `monospace` ``,  , or URL `[example](http://example.com)`.
 
 Example:
 
@@ -101,13 +101,13 @@ Example:
 {% endtab %}
 
 {% tab title="Appearence in module" %}
-![Example of a Help](<../.gitbook/assets/Apps Doc - helpExampleAppearenceGood.png>)
+![Example of a Help](../.gitbook/assets/Apps%20Doc%20-%20helpExampleAppearenceGood.png)
 {% endtab %}
 {% endtabs %}
 
 ### **Advanced parameters** <a href="#advanced-parameters" id="advanced-parameters"></a>
 
-Services like CRMs use large amounts of input parameters. In these cases, you can mark less important parameters as **advanced**_._ When the parameter is marked as advanced, then by default it isn't shown in the GUI. It can be found in the advanced parameters instead after the user clicks on **Show advanced settings**.&#x20;
+Services like CRMs use large amounts of input parameters. In these cases, you can mark less important parameters as **advanced**_._ When the parameter is marked as advanced, then by default it isn't shown in the GUI. It can be found in the advanced parameters instead after the user clicks on **Show advanced settings**.
 
 Example:
 
