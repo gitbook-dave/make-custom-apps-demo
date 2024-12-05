@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Make Apps Editor](README.md)
+* [Custom Apps](README.md)
   * [Develop apps in Make UI](make-apps-editor/web-editor-features.md)
   * [Develop apps in VS Code](make-apps-editor/apps-sdk/README.md)
     * [Configure VS Code](make-apps-editor/apps-sdk/configuration-of-vs-code.md)

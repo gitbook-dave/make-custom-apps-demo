@@ -1,33 +1,13 @@
-# Make Apps Editor
+---
+description: Learn how to create your own custom applications using our Apps Editor.
+icon: life-ring
+---
 
-## Develop apps in Make UI
+# Custom Apps
 
-The Make UI allows you to browse in Example and Custom apps you previously created.
-
-When developing an app, you can work with components such as base, connections, webhooks, modules, RPCs, and custom IML functions.
-
-{% hint style="info" %}
-Go to [this page](https://developers.make.com/custom-apps-documentation/make-apps-editor/develop-apps-in-make-ui) to learn how to effectively develop apps using available features in the Make UI.
-{% endhint %}
-
-
-
-## Develop apps in VS Code extension
-
-The VS Code extension supports all jobs available in the Make UI, additionally, it empowers developers with the following capabilities:
-
-* Importing & exporting the apps
-* Cloning components within the app
-* Support for apps' local development, enabling:
-  * [cloning Make apps to the local workspace and a repository, for example, git](make-apps-editor/apps-sdk/local-development-for-apps/clone-make-app-to-local-workspace.md)
-  * [development of multiple app versions, e.g. deploying one code to testing and production app](make-apps-editor/apps-sdk/manage-testing-and-production-app-versions.md)
-  * pulling updates or new app components to the local workspace and a repository
-  * [versioning of the app](make-apps-editor/apps-sdk/local-development-for-apps/compare-changes-between-local-and-make-app.md)
-  * collaborative development
-  * control over code contributions
-  * [local development and deploying local app code back to Make](make-apps-editor/apps-sdk/local-development-for-apps/develop-app-in-a-local-workspace-offline.md)
+Make Custom Apps documentation is a guide for developers looking to create their own apps for themselves or others to use on the Make platform. This documentation will walk you through how to use Make Apps Editor in Make UI and in Visual Studio Code to create and manage those custom apps, as well as best practices and common approaches for development.
 
 {% hint style="info" %}
-Go to [this page](https://developers.make.com/custom-apps-documentation/make-apps-editor/develop-apps-in-vs-code) to learn how to get the most out of the VS Code extension.
+[Collaborative development](https://developers.make.com/custom-apps-documentation/make-apps-editor/develop-apps-in-vs-code/develop-apps-collaboratively), [version control](https://developers.make.com/custom-apps-documentation/make-apps-editor/develop-apps-in-vs-code/manage-testing-and-production-app-versions), and [local development](https://developers.make.com/custom-apps-documentation/make-apps-editor/develop-apps-in-vs-code/local-development-for-apps) are now supported!
 {% endhint %}
 
